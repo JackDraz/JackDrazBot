@@ -1,0 +1,15 @@
+C:\Users\User\Documents\CompSci Study Folder\.NET March 2023\TwitchBot\obj\Debug\net8.0\TwitchBot.csproj.AssemblyReference.cache
+C:\Users\User\Documents\CompSci Study Folder\.NET March 2023\TwitchBot\obj\Debug\net8.0\TwitchBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CompSci Study Folder\.NET March 2023\TwitchBot\obj\Debug\net8.0\TwitchBot.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CompSci Study Folder\.NET March 2023\TwitchBot\obj\Debug\net8.0\TwitchBot.AssemblyInfo.cs
+C:\Users\User\Documents\CompSci Study Folder\.NET March 2023\TwitchBot\obj\Debug\net8.0\TwitchBot.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CompSci Study Folder\.NET March 2023\TwitchBot\bin\Debug\net8.0\TwitchBot.exe
+C:\Users\User\Documents\CompSci Study Folder\.NET March 2023\TwitchBot\bin\Debug\net8.0\TwitchBot.deps.json
+C:\Users\User\Documents\CompSci Study Folder\.NET March 2023\TwitchBot\bin\Debug\net8.0\TwitchBot.runtimeconfig.json
+C:\Users\User\Documents\CompSci Study Folder\.NET March 2023\TwitchBot\bin\Debug\net8.0\TwitchBot.dll
+C:\Users\User\Documents\CompSci Study Folder\.NET March 2023\TwitchBot\bin\Debug\net8.0\TwitchBot.pdb
+C:\Users\User\Documents\CompSci Study Folder\.NET March 2023\TwitchBot\obj\Debug\net8.0\TwitchBot.dll
+C:\Users\User\Documents\CompSci Study Folder\.NET March 2023\TwitchBot\obj\Debug\net8.0\refint\TwitchBot.dll
+C:\Users\User\Documents\CompSci Study Folder\.NET March 2023\TwitchBot\obj\Debug\net8.0\TwitchBot.pdb
+C:\Users\User\Documents\CompSci Study Folder\.NET March 2023\TwitchBot\obj\Debug\net8.0\TwitchBot.genruntimeconfig.cache
+C:\Users\User\Documents\CompSci Study Folder\.NET March 2023\TwitchBot\obj\Debug\net8.0\ref\TwitchBot.dll
